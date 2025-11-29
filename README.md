@@ -28,6 +28,7 @@ This project showcases my skills, projects, and professional journey as a Full S
 
 ## 📸 Screenshots
 (Add screenshots or GIFs of your portfolio here)
+![Homepage Screenshot](portfolio.png)
 
 ---
 
